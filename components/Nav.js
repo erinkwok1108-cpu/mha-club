@@ -30,7 +30,7 @@ export default function Nav() {
         >
           {SHOW_LOGO && (
             <Image
-              src="/logo.png"
+              src="/MHAC%20logo.png"
               alt={`${CLUB_NAME} logo`}
               width={36}
               height={36}
