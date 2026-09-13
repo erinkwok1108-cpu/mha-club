@@ -2,7 +2,7 @@
 // This is the one file most people will want to touch first.
 // Change the club name here and it updates everywhere on the site.
 
-export const CLUB_NAME = "Mental Health Awareness Club";
+export const CLUB_NAME = "SLSS Mental Health Awarness Club";
 export const SCHOOL_NAME = "Steveston-London Secondary School";
 export const SCHOOL_LOCATION = "Richmond, BC";
 
