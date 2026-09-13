@@ -11,7 +11,7 @@ export const SCHOOL_LOCATION = "Richmond, BC";
 //    (square logos work best — ideally at least 150x150px, transparent background).
 // 2. Set SHOW_LOGO to true below.
 // That's it — it'll appear next to the club name in the nav bar automatically.
-export const SHOW_LOGO = true;
+export const SHOW_LOGO = false;
 
 export const MEETING_INFO = {
   day: "Friday",
