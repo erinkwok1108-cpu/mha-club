@@ -6,6 +6,7 @@ export const team = [
   { name: "Josh Fung", role: "Co-President,co founder" },
   { name: "Charmaine Law", role: "Co-President,co founder" },
   { name: "Jacob Ty", role: "Events Coordinator" },
+  { name: "Nathaniel Huang", role: "Events Coordinator" },
   { name: "Charlotte Chan", role: "Outreach & Communications" },
-  { name: "[Name]", role: "Secretary" },
+  { name: "Boniface Lee", role: "Secretary" },
 ];
